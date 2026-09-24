@@ -1,8 +1,6 @@
 # 💡 Idea2App - Live App Builder
 
-Turn your startup idea into a working app preview in seconds.
-
-**Live Demo:** https://soni121roy.github.io/idea2app/
+Turn your startup idea into a working app preview in seconds
 
 ### 🚀 Features
 - Instant Idea to App UI generation
